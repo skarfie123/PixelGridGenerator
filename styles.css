@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+}
+
+canvas {
+  border: 1px;
+  border-color: blue;
+  border-style: solid;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+}
